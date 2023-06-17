@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# How to Start the project?
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Download whole project in your local system:
 
-In the project directory, you can run:
+In the project directory, you should run:
+### `npm install`
+Then install required dependencies:
+### `npm i bootstrap react-bootstrap react-feather react-to-print`
 
 ### `npm start`
 
